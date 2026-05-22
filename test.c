@@ -1,4 +1,5 @@
+#include<stdio.h> 
 int main(){
-  printf("ä½ å¥½");
+  printf("ÄãºÃ");
   return 0;
 }
